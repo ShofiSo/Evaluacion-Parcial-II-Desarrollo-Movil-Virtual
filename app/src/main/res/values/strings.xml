@@ -1,3 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NotasApp</string>
+
+    <string name="login_title">Iniciar sesión</string>
+    <string name="hint_email">Usuario / Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="error_required">Este campo es obligatorio</string>
+
+    <string name="welcome_message">¡Bienvenido, %1$s!</string>
+    <string name="dashboard_subtitle">¿Qué deseas hacer hoy?</string>
+    <string name="btn_create_note">Crear nota</string>
+    <string name="btn_view_notes">Ver mis notas</string>
+    <string name="btn_logout">Cerrar sesión</string>
+
+    <string name="create_note_title">Nueva nota</string>
+    <string name="hint_note_title">Título</string>
+    <string name="hint_note_content">Contenido</string>
+    <string name="btn_save">Guardar</string>
+    <string name="note_saved">Nota guardada correctamente</string>
+
+    <string name="notes_list_title">Mis notas</string>
+    <string name="notes_empty">Aún no tienes notas guardadas</string>
+    <string name="retry">Reintentar</string>
 </resources>
